@@ -1,0 +1,15 @@
+# Build
+build
+dist
+Include
+Lib
+Scripts
+share
+thermy.spec
+
+# Environment
+.env
+
+# Config
+pyvenv.cfg
+
