@@ -7,7 +7,7 @@ Simple (ha!) thermal (esc/pos) printing for classrooms.  I made this for fun and
 ## Description
 
 The current version:
-* finds and connects to USB ESC/POS printers on Windows OS;
+* finds and connects to USB ESC/POS printers on Windows;
 * prints hall passes (printing templates to be expanded, e.g. todo lists, random circle prompts, class currency, etc.);
     * includes optional QR codes on printed passes (generates QR code based on randomly chosen content from line in qrcontent.txt);
     * logs printing (pass) activity (saved to thermylogs.txt);
