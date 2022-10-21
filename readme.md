@@ -87,7 +87,7 @@ python thermy.py
 ```
 python bundlethermy.spec
 ```
-* This uilds thermy.exe at dist/thermy.
+* This builds thermy.exe at dist/thermy.
 * The qrcontent.txt and thermylogs.txt are at dist/thermy.
 
 ### SMS commands
