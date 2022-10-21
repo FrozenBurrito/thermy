@@ -83,11 +83,12 @@ python thermy.py
 
 ### Bundling thermy as .exe with pyinstaller 
 * First, update bundlethermy.spec with the correct paths to the binary and data files.
+* Then, run:
 ```
 python bundlethermy.spec
 ```
-* Builds thermy.exe at dist/thermy
-* qrcontent.txt and thermylogs.txt in dist/thermy
+* This uilds thermy.exe at dist/thermy.
+* The qrcontent.txt and thermylogs.txt are at dist/thermy.
 
 ### SMS commands
 ```
