@@ -129,7 +129,7 @@ This project is licensed under the MIT License.  See the LICENSE.md file for det
 
 ## Helpful Sources
 
-* [Changes required for python-esc-pos work on Windows](https://nyorikakar.medium.com/printing-with-python-and-epson-pos-printer-fbd17e127b6c)
+* [Changes required for python-esc-pos to work on Windows](https://nyorikakar.medium.com/printing-with-python-and-epson-pos-printer-fbd17e127b6c)
 * ["Automating Ngrok in Python and Twilio Applications With Pyngrok"](https://www.twilio.com/blog/automating-ngrok-python-twilio-applications-pyngrok)
 * [Zadig USB driver installation](https://zadig.akeo.ie/)
 * [A Simple README.me template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
