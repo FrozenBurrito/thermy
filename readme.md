@@ -1,4 +1,4 @@
-<img src="screenshot.jpg" width="35%" height="35%" />
+<img src="screenshot.jpg" width="50%" height="50%" />
 
 # thermy v0.2
 
