@@ -26,11 +26,10 @@ The current version:
 
 ### Cloning and setting up your environment.
 ```
-mkdir thermy
-cd thermy
-python -m venv .
-scripts\activate.bat
 git clone https://github.com/FrozenBurrito/thermy.git
+cd processage
+python -m venv .
+scripts\activate.bat 
 pip install -r requirements.txt
 ```
 ### Modifying the python-esc-pos library to work with windows
