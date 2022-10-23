@@ -27,7 +27,7 @@ The current version:
 ### Cloning and setting up your environment.
 ```
 git clone https://github.com/FrozenBurrito/thermy.git
-cd processage
+cd thermy
 python -m venv .
 scripts\activate.bat 
 pip install -r requirements.txt
