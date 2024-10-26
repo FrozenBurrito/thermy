@@ -102,7 +102,7 @@ Let me know if you have any questions or suggestions.
 
 ## Authors
 
-Jon Morris, [frozenburrito](https://github.com/frozenburrito)
+J Mo, [frozenburrito](https://github.com/frozenburrito)
 
 ## Version History
 
